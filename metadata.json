@@ -1,0 +1,8 @@
+{
+  "name": "Jindungo",
+  "description": "Uma plataforma social vibrante e moderna (estilo 'picante') com feeds, stories, chat em tempo real e sistema de notificações completo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
